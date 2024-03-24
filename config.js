@@ -8,20 +8,20 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['‪22231675561‬', '🔪 JOHAN ', true],
-  ['22231675561', ' 3MK 💸', true],
+  ['‪201556800551', '𝑺𝒖𝒌𝒖𝒏𝒂🌑🌴', true],
+  ['201556800551', '𝑺𝒖𝒌𝒖𝒏𝒂🌑🌴', true],
 ];
 
 global.xaxa = 'kana'
-global.suittag = ['22231675561', '22231675561'];
-global.prems = ['22231675561', '22231675561'];
+global.suittag = ['201556800551', '33757056690'];
+global.prems = ['201556800551', '33757056690'];
 
-global.packname = 'Nezuko🧸 ';
-global.author = '★Nezuko🌺★';
-global.wm = '★Nezuko BOT★';
-global.titulowm = ' Nezuko ';
-global.titulowm2 = ` Nezuko `
-global.igfg = ' Nezuko ';
+global.packname = '𝑺𝑼𝑲𝑼𝑵𝑨🌴';
+global.author = '𝑺𝑼𝑲𝑼𝑵𝑨🌴';
+global.wm = '𝑺𝑼𝑲𝑼𝑵𝑨-𝑩𝒐𝒕-𝑴𝒃🌴';
+global.titulowm = ' sukuna ';
+global.titulowm2 = ` sukuna `
+global.igfg = ' sukuna ';
 global.wait = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
