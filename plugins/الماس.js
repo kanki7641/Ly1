@@ -8,7 +8,7 @@ let handler = async (m, {conn, usedPrefix}) => {
     conn.reply(m.chat, `
 ┌───⊷ *التوازن* ⊶
 ▢ *📌الاسم* : _@${who.split('@')[0]}_
-▢ *نقودك 💷* : _${user.money}_
+▢ *فلوسي 💷* : _${user.money}_
 ▢ *اكسبي* : _المجموع ${user.exp}_
 └──────────────
 
@@ -19,6 +19,6 @@ let handler = async (m, {conn, usedPrefix}) => {
 }
 handler.help = ['balance']
 handler.tags = ['econ']
-handler.command = ['شراء-النقود', 'نقودي', 'money', 'النقود'] 
+handler.command = ['شراء-النقود', 'نقودي', 'money', 'فلوسي'] 
 
 export default handler
